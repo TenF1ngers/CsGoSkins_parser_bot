@@ -1,0 +1,7 @@
+aiogram~=2.20
+aiogram
+requests~=2.27.1
+requests
+fake-useragent
+python-time
+json2json
